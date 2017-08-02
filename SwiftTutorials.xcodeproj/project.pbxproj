@@ -35,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3B22559E1F31CB2B00202A76 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 		3B34BAB21F308F3200B31A82 /* SwiftTutorials.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftTutorials.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B34BAB51F308F3200B31A82 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3B34BAB71F308F3200B31A82 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -307,6 +308,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				3B34BABA1F308F3200B31A82 /* Base */,
+				3B22559E1F31CB2B00202A76 /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -520,6 +522,7 @@
 				3B34BADF1F308F3200B31A82 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3B34BAE01F308F3200B31A82 /* Build configuration list for PBXNativeTarget "SwiftTutorialsTests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +531,7 @@
 				3B34BAE21F308F3200B31A82 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3B34BAE31F308F3300B31A82 /* Build configuration list for PBXNativeTarget "SwiftTutorialsUITests" */ = {
 			isa = XCConfigurationList;
@@ -536,6 +540,7 @@
 				3B34BAE51F308F3300B31A82 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
