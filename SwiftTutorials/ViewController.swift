@@ -19,13 +19,13 @@ class ViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDele
     
     @IBAction func ClickListener(_ sender: Any) {
         
-//        if statePicker.isHidden {
-//            statePicker.isHidden = false
-//        }
-//        
-//        else{
-//            statePicker.isHidden = true
-//        }
+        if statePicker.isHidden {
+            statePicker.isHidden = false
+        }
+        
+        else{
+            statePicker.isHidden = true
+        }
         
 //    entireView.isHidden = true
         
